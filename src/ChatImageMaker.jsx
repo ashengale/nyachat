@@ -11,10 +11,10 @@ const CHARACTERS = [
     bgImg: "image/eden.png",
   },
   {
-    id: "dog",
-    name: "강아지",
-    emoji: "🐶",
-    bgImg: "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80",
+    id: "eden2",
+    name: "EDEN",
+    emoji: "🔫",
+    bgImg: "image/eden(2).png",
   },
 ];
 
